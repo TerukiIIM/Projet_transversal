@@ -1,0 +1,9 @@
+header {
+    background-image: linear-gradient(rgba(5,10,30,0.5),rgba(5,10,30,0.5)), url(../images/bg_slider_1.png);
+    background-position: center;
+    background-size: cover; 
+}
+
+nav a {
+    color: white;
+}
